@@ -1,0 +1,8 @@
+name = "html-manager-kv"
+type = "javascript"
+account_id = "b2cdab0d7e0680bcf8852dc7e48c4b83"  # <- account ID kamu
+workers_dev = true
+
+kv_namespaces = [
+  { binding = "HTML_PAGES", id = "e70b71f2bd6241f6a5d8aef9a9358ad4" }  # namespace KV untuk HTML Manager
+]
